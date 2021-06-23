@@ -1,4 +1,4 @@
-# sample oulet finder
+# sample outlet finder
 A sample project for demonstrating a full-stack development minus the deployment for outlet search using geospatial queries.
 
 Requirements
@@ -49,7 +49,7 @@ access mongo shell by simply running: mongo_admin.
 #Adding data to database
 Steps:
 1. Go to be_outlet_finder/server
-2. Run genLocData.js. Node script.
+2. Run genLocData.js using node.
 
 Simply run 'mongo_admin be_outlet_finder/mongoScripts/data.js';
 This mongo script will fill your database.
