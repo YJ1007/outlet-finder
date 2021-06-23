@@ -49,7 +49,8 @@ access mongo shell by simply running: mongo_admin.
 #Adding data to database
 Steps:
 1. Go to be_outlet_finder/server
-2. Run genLocData.js using node.
+2. Please run 'npm install' to install the dependencies.
+3. Run genLocData.js using node.
 
 Simply run 'mongo_admin be_outlet_finder/mongoScripts/data.js';
 This mongo script will fill your database.
