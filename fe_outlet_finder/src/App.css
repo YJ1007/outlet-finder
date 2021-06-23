@@ -1,0 +1,11 @@
+.floatright{
+  float: right;
+}
+
+.btn-info {
+  color: #ffffff;
+  background-color: #3498db;
+  border-color: #3498db;
+}
+
+.margin-right20 { margin-right: 20px; }
